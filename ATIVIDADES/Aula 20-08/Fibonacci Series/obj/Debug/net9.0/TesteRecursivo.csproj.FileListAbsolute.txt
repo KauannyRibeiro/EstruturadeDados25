@@ -1,0 +1,30 @@
+C:\Users\anima\Documents\2. Faculdade\2025\2 FASE\ESTRUTURA DE DADOS\ATIVIDADES\TesteRecursivo\bin\Debug\net9.0\TesteRecursivo.exe
+C:\Users\anima\Documents\2. Faculdade\2025\2 FASE\ESTRUTURA DE DADOS\ATIVIDADES\TesteRecursivo\bin\Debug\net9.0\TesteRecursivo.deps.json
+C:\Users\anima\Documents\2. Faculdade\2025\2 FASE\ESTRUTURA DE DADOS\ATIVIDADES\TesteRecursivo\bin\Debug\net9.0\TesteRecursivo.runtimeconfig.json
+C:\Users\anima\Documents\2. Faculdade\2025\2 FASE\ESTRUTURA DE DADOS\ATIVIDADES\TesteRecursivo\bin\Debug\net9.0\TesteRecursivo.dll
+C:\Users\anima\Documents\2. Faculdade\2025\2 FASE\ESTRUTURA DE DADOS\ATIVIDADES\TesteRecursivo\bin\Debug\net9.0\TesteRecursivo.pdb
+C:\Users\anima\Documents\2. Faculdade\2025\2 FASE\ESTRUTURA DE DADOS\ATIVIDADES\TesteRecursivo\obj\Debug\net9.0\TesteRecursivo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anima\Documents\2. Faculdade\2025\2 FASE\ESTRUTURA DE DADOS\ATIVIDADES\TesteRecursivo\obj\Debug\net9.0\TesteRecursivo.AssemblyInfoInputs.cache
+C:\Users\anima\Documents\2. Faculdade\2025\2 FASE\ESTRUTURA DE DADOS\ATIVIDADES\TesteRecursivo\obj\Debug\net9.0\TesteRecursivo.AssemblyInfo.cs
+C:\Users\anima\Documents\2. Faculdade\2025\2 FASE\ESTRUTURA DE DADOS\ATIVIDADES\TesteRecursivo\obj\Debug\net9.0\TesteRecursivo.csproj.CoreCompileInputs.cache
+C:\Users\anima\Documents\2. Faculdade\2025\2 FASE\ESTRUTURA DE DADOS\ATIVIDADES\TesteRecursivo\obj\Debug\net9.0\TesteRecursivo.sourcelink.json
+C:\Users\anima\Documents\2. Faculdade\2025\2 FASE\ESTRUTURA DE DADOS\ATIVIDADES\TesteRecursivo\obj\Debug\net9.0\TesteRecursivo.dll
+C:\Users\anima\Documents\2. Faculdade\2025\2 FASE\ESTRUTURA DE DADOS\ATIVIDADES\TesteRecursivo\obj\Debug\net9.0\refint\TesteRecursivo.dll
+C:\Users\anima\Documents\2. Faculdade\2025\2 FASE\ESTRUTURA DE DADOS\ATIVIDADES\TesteRecursivo\obj\Debug\net9.0\TesteRecursivo.pdb
+C:\Users\anima\Documents\2. Faculdade\2025\2 FASE\ESTRUTURA DE DADOS\ATIVIDADES\TesteRecursivo\obj\Debug\net9.0\TesteRecursivo.genruntimeconfig.cache
+C:\Users\anima\Documents\2. Faculdade\2025\2 FASE\ESTRUTURA DE DADOS\ATIVIDADES\TesteRecursivo\obj\Debug\net9.0\ref\TesteRecursivo.dll
+C:\Users\anima\Documents\2. Faculdade\2025\2 FASE\ESTRUTURA DE DADOS\ATIVIDADES\Aula 20-08\Fibonacci Series\bin\Debug\net9.0\TesteRecursivo.exe
+C:\Users\anima\Documents\2. Faculdade\2025\2 FASE\ESTRUTURA DE DADOS\ATIVIDADES\Aula 20-08\Fibonacci Series\bin\Debug\net9.0\TesteRecursivo.deps.json
+C:\Users\anima\Documents\2. Faculdade\2025\2 FASE\ESTRUTURA DE DADOS\ATIVIDADES\Aula 20-08\Fibonacci Series\bin\Debug\net9.0\TesteRecursivo.runtimeconfig.json
+C:\Users\anima\Documents\2. Faculdade\2025\2 FASE\ESTRUTURA DE DADOS\ATIVIDADES\Aula 20-08\Fibonacci Series\bin\Debug\net9.0\TesteRecursivo.dll
+C:\Users\anima\Documents\2. Faculdade\2025\2 FASE\ESTRUTURA DE DADOS\ATIVIDADES\Aula 20-08\Fibonacci Series\bin\Debug\net9.0\TesteRecursivo.pdb
+C:\Users\anima\Documents\2. Faculdade\2025\2 FASE\ESTRUTURA DE DADOS\ATIVIDADES\Aula 20-08\Fibonacci Series\obj\Debug\net9.0\TesteRecursivo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anima\Documents\2. Faculdade\2025\2 FASE\ESTRUTURA DE DADOS\ATIVIDADES\Aula 20-08\Fibonacci Series\obj\Debug\net9.0\TesteRecursivo.AssemblyInfoInputs.cache
+C:\Users\anima\Documents\2. Faculdade\2025\2 FASE\ESTRUTURA DE DADOS\ATIVIDADES\Aula 20-08\Fibonacci Series\obj\Debug\net9.0\TesteRecursivo.AssemblyInfo.cs
+C:\Users\anima\Documents\2. Faculdade\2025\2 FASE\ESTRUTURA DE DADOS\ATIVIDADES\Aula 20-08\Fibonacci Series\obj\Debug\net9.0\TesteRecursivo.csproj.CoreCompileInputs.cache
+C:\Users\anima\Documents\2. Faculdade\2025\2 FASE\ESTRUTURA DE DADOS\ATIVIDADES\Aula 20-08\Fibonacci Series\obj\Debug\net9.0\TesteRecursivo.sourcelink.json
+C:\Users\anima\Documents\2. Faculdade\2025\2 FASE\ESTRUTURA DE DADOS\ATIVIDADES\Aula 20-08\Fibonacci Series\obj\Debug\net9.0\TesteRecursivo.dll
+C:\Users\anima\Documents\2. Faculdade\2025\2 FASE\ESTRUTURA DE DADOS\ATIVIDADES\Aula 20-08\Fibonacci Series\obj\Debug\net9.0\refint\TesteRecursivo.dll
+C:\Users\anima\Documents\2. Faculdade\2025\2 FASE\ESTRUTURA DE DADOS\ATIVIDADES\Aula 20-08\Fibonacci Series\obj\Debug\net9.0\TesteRecursivo.pdb
+C:\Users\anima\Documents\2. Faculdade\2025\2 FASE\ESTRUTURA DE DADOS\ATIVIDADES\Aula 20-08\Fibonacci Series\obj\Debug\net9.0\TesteRecursivo.genruntimeconfig.cache
+C:\Users\anima\Documents\2. Faculdade\2025\2 FASE\ESTRUTURA DE DADOS\ATIVIDADES\Aula 20-08\Fibonacci Series\obj\Debug\net9.0\ref\TesteRecursivo.dll

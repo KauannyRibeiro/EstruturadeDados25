@@ -1,0 +1,15 @@
+C:\Users\anima\Documents\2. Faculdade\2025\2 FASE\ESTRUTURA DE DADOS\ATIVIDADES\Aula 20-08\Recursion\bin\Debug\net9.0\Recursion.exe
+C:\Users\anima\Documents\2. Faculdade\2025\2 FASE\ESTRUTURA DE DADOS\ATIVIDADES\Aula 20-08\Recursion\bin\Debug\net9.0\Recursion.deps.json
+C:\Users\anima\Documents\2. Faculdade\2025\2 FASE\ESTRUTURA DE DADOS\ATIVIDADES\Aula 20-08\Recursion\bin\Debug\net9.0\Recursion.runtimeconfig.json
+C:\Users\anima\Documents\2. Faculdade\2025\2 FASE\ESTRUTURA DE DADOS\ATIVIDADES\Aula 20-08\Recursion\bin\Debug\net9.0\Recursion.dll
+C:\Users\anima\Documents\2. Faculdade\2025\2 FASE\ESTRUTURA DE DADOS\ATIVIDADES\Aula 20-08\Recursion\bin\Debug\net9.0\Recursion.pdb
+C:\Users\anima\Documents\2. Faculdade\2025\2 FASE\ESTRUTURA DE DADOS\ATIVIDADES\Aula 20-08\Recursion\obj\Debug\net9.0\Recursion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anima\Documents\2. Faculdade\2025\2 FASE\ESTRUTURA DE DADOS\ATIVIDADES\Aula 20-08\Recursion\obj\Debug\net9.0\Recursion.AssemblyInfoInputs.cache
+C:\Users\anima\Documents\2. Faculdade\2025\2 FASE\ESTRUTURA DE DADOS\ATIVIDADES\Aula 20-08\Recursion\obj\Debug\net9.0\Recursion.AssemblyInfo.cs
+C:\Users\anima\Documents\2. Faculdade\2025\2 FASE\ESTRUTURA DE DADOS\ATIVIDADES\Aula 20-08\Recursion\obj\Debug\net9.0\Recursion.csproj.CoreCompileInputs.cache
+C:\Users\anima\Documents\2. Faculdade\2025\2 FASE\ESTRUTURA DE DADOS\ATIVIDADES\Aula 20-08\Recursion\obj\Debug\net9.0\Recursion.sourcelink.json
+C:\Users\anima\Documents\2. Faculdade\2025\2 FASE\ESTRUTURA DE DADOS\ATIVIDADES\Aula 20-08\Recursion\obj\Debug\net9.0\Recursion.dll
+C:\Users\anima\Documents\2. Faculdade\2025\2 FASE\ESTRUTURA DE DADOS\ATIVIDADES\Aula 20-08\Recursion\obj\Debug\net9.0\refint\Recursion.dll
+C:\Users\anima\Documents\2. Faculdade\2025\2 FASE\ESTRUTURA DE DADOS\ATIVIDADES\Aula 20-08\Recursion\obj\Debug\net9.0\Recursion.pdb
+C:\Users\anima\Documents\2. Faculdade\2025\2 FASE\ESTRUTURA DE DADOS\ATIVIDADES\Aula 20-08\Recursion\obj\Debug\net9.0\Recursion.genruntimeconfig.cache
+C:\Users\anima\Documents\2. Faculdade\2025\2 FASE\ESTRUTURA DE DADOS\ATIVIDADES\Aula 20-08\Recursion\obj\Debug\net9.0\ref\Recursion.dll

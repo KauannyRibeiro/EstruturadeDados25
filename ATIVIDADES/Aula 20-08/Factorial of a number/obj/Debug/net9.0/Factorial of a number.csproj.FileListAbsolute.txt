@@ -1,0 +1,15 @@
+C:\Users\anima\Documents\2. Faculdade\2025\2 FASE\ESTRUTURA DE DADOS\ATIVIDADES\Aula 20-08\Factorial of a number\bin\Debug\net9.0\Factorial of a number.exe
+C:\Users\anima\Documents\2. Faculdade\2025\2 FASE\ESTRUTURA DE DADOS\ATIVIDADES\Aula 20-08\Factorial of a number\bin\Debug\net9.0\Factorial of a number.deps.json
+C:\Users\anima\Documents\2. Faculdade\2025\2 FASE\ESTRUTURA DE DADOS\ATIVIDADES\Aula 20-08\Factorial of a number\bin\Debug\net9.0\Factorial of a number.runtimeconfig.json
+C:\Users\anima\Documents\2. Faculdade\2025\2 FASE\ESTRUTURA DE DADOS\ATIVIDADES\Aula 20-08\Factorial of a number\bin\Debug\net9.0\Factorial of a number.dll
+C:\Users\anima\Documents\2. Faculdade\2025\2 FASE\ESTRUTURA DE DADOS\ATIVIDADES\Aula 20-08\Factorial of a number\bin\Debug\net9.0\Factorial of a number.pdb
+C:\Users\anima\Documents\2. Faculdade\2025\2 FASE\ESTRUTURA DE DADOS\ATIVIDADES\Aula 20-08\Factorial of a number\obj\Debug\net9.0\Factorial of a number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anima\Documents\2. Faculdade\2025\2 FASE\ESTRUTURA DE DADOS\ATIVIDADES\Aula 20-08\Factorial of a number\obj\Debug\net9.0\Factorial of a number.AssemblyInfoInputs.cache
+C:\Users\anima\Documents\2. Faculdade\2025\2 FASE\ESTRUTURA DE DADOS\ATIVIDADES\Aula 20-08\Factorial of a number\obj\Debug\net9.0\Factorial of a number.AssemblyInfo.cs
+C:\Users\anima\Documents\2. Faculdade\2025\2 FASE\ESTRUTURA DE DADOS\ATIVIDADES\Aula 20-08\Factorial of a number\obj\Debug\net9.0\Factorial of a number.csproj.CoreCompileInputs.cache
+C:\Users\anima\Documents\2. Faculdade\2025\2 FASE\ESTRUTURA DE DADOS\ATIVIDADES\Aula 20-08\Factorial of a number\obj\Debug\net9.0\Factorial of a number.sourcelink.json
+C:\Users\anima\Documents\2. Faculdade\2025\2 FASE\ESTRUTURA DE DADOS\ATIVIDADES\Aula 20-08\Factorial of a number\obj\Debug\net9.0\Factorial of a number.dll
+C:\Users\anima\Documents\2. Faculdade\2025\2 FASE\ESTRUTURA DE DADOS\ATIVIDADES\Aula 20-08\Factorial of a number\obj\Debug\net9.0\refint\Factorial of a number.dll
+C:\Users\anima\Documents\2. Faculdade\2025\2 FASE\ESTRUTURA DE DADOS\ATIVIDADES\Aula 20-08\Factorial of a number\obj\Debug\net9.0\Factorial of a number.pdb
+C:\Users\anima\Documents\2. Faculdade\2025\2 FASE\ESTRUTURA DE DADOS\ATIVIDADES\Aula 20-08\Factorial of a number\obj\Debug\net9.0\Factorial of a number.genruntimeconfig.cache
+C:\Users\anima\Documents\2. Faculdade\2025\2 FASE\ESTRUTURA DE DADOS\ATIVIDADES\Aula 20-08\Factorial of a number\obj\Debug\net9.0\ref\Factorial of a number.dll
