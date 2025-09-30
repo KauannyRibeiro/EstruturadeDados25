@@ -1,0 +1,15 @@
+C:\Users\anima\Documents\2. Faculdade\2025\2 FASE\ESTRUTURA DE DADOS\ATIVIDADES\Aula 03-09\Pilhas\bin\Debug\net9.0\Pilhas.exe
+C:\Users\anima\Documents\2. Faculdade\2025\2 FASE\ESTRUTURA DE DADOS\ATIVIDADES\Aula 03-09\Pilhas\bin\Debug\net9.0\Pilhas.deps.json
+C:\Users\anima\Documents\2. Faculdade\2025\2 FASE\ESTRUTURA DE DADOS\ATIVIDADES\Aula 03-09\Pilhas\bin\Debug\net9.0\Pilhas.runtimeconfig.json
+C:\Users\anima\Documents\2. Faculdade\2025\2 FASE\ESTRUTURA DE DADOS\ATIVIDADES\Aula 03-09\Pilhas\bin\Debug\net9.0\Pilhas.dll
+C:\Users\anima\Documents\2. Faculdade\2025\2 FASE\ESTRUTURA DE DADOS\ATIVIDADES\Aula 03-09\Pilhas\bin\Debug\net9.0\Pilhas.pdb
+C:\Users\anima\Documents\2. Faculdade\2025\2 FASE\ESTRUTURA DE DADOS\ATIVIDADES\Aula 03-09\Pilhas\obj\Debug\net9.0\Pilhas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anima\Documents\2. Faculdade\2025\2 FASE\ESTRUTURA DE DADOS\ATIVIDADES\Aula 03-09\Pilhas\obj\Debug\net9.0\Pilhas.AssemblyInfoInputs.cache
+C:\Users\anima\Documents\2. Faculdade\2025\2 FASE\ESTRUTURA DE DADOS\ATIVIDADES\Aula 03-09\Pilhas\obj\Debug\net9.0\Pilhas.AssemblyInfo.cs
+C:\Users\anima\Documents\2. Faculdade\2025\2 FASE\ESTRUTURA DE DADOS\ATIVIDADES\Aula 03-09\Pilhas\obj\Debug\net9.0\Pilhas.csproj.CoreCompileInputs.cache
+C:\Users\anima\Documents\2. Faculdade\2025\2 FASE\ESTRUTURA DE DADOS\ATIVIDADES\Aula 03-09\Pilhas\obj\Debug\net9.0\Pilhas.sourcelink.json
+C:\Users\anima\Documents\2. Faculdade\2025\2 FASE\ESTRUTURA DE DADOS\ATIVIDADES\Aula 03-09\Pilhas\obj\Debug\net9.0\Pilhas.dll
+C:\Users\anima\Documents\2. Faculdade\2025\2 FASE\ESTRUTURA DE DADOS\ATIVIDADES\Aula 03-09\Pilhas\obj\Debug\net9.0\refint\Pilhas.dll
+C:\Users\anima\Documents\2. Faculdade\2025\2 FASE\ESTRUTURA DE DADOS\ATIVIDADES\Aula 03-09\Pilhas\obj\Debug\net9.0\Pilhas.pdb
+C:\Users\anima\Documents\2. Faculdade\2025\2 FASE\ESTRUTURA DE DADOS\ATIVIDADES\Aula 03-09\Pilhas\obj\Debug\net9.0\Pilhas.genruntimeconfig.cache
+C:\Users\anima\Documents\2. Faculdade\2025\2 FASE\ESTRUTURA DE DADOS\ATIVIDADES\Aula 03-09\Pilhas\obj\Debug\net9.0\ref\Pilhas.dll

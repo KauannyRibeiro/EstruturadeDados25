@@ -1,0 +1,15 @@
+C:\Users\anima\Documents\2. Faculdade\2025\2 FASE\ESTRUTURA DE DADOS\ATIVIDADES\Aula 03-09\polindromo\bin\Debug\net9.0\Polindromo.exe
+C:\Users\anima\Documents\2. Faculdade\2025\2 FASE\ESTRUTURA DE DADOS\ATIVIDADES\Aula 03-09\polindromo\bin\Debug\net9.0\Polindromo.deps.json
+C:\Users\anima\Documents\2. Faculdade\2025\2 FASE\ESTRUTURA DE DADOS\ATIVIDADES\Aula 03-09\polindromo\bin\Debug\net9.0\Polindromo.runtimeconfig.json
+C:\Users\anima\Documents\2. Faculdade\2025\2 FASE\ESTRUTURA DE DADOS\ATIVIDADES\Aula 03-09\polindromo\bin\Debug\net9.0\Polindromo.dll
+C:\Users\anima\Documents\2. Faculdade\2025\2 FASE\ESTRUTURA DE DADOS\ATIVIDADES\Aula 03-09\polindromo\bin\Debug\net9.0\Polindromo.pdb
+C:\Users\anima\Documents\2. Faculdade\2025\2 FASE\ESTRUTURA DE DADOS\ATIVIDADES\Aula 03-09\polindromo\obj\Debug\net9.0\Polindromo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anima\Documents\2. Faculdade\2025\2 FASE\ESTRUTURA DE DADOS\ATIVIDADES\Aula 03-09\polindromo\obj\Debug\net9.0\Polindromo.AssemblyInfoInputs.cache
+C:\Users\anima\Documents\2. Faculdade\2025\2 FASE\ESTRUTURA DE DADOS\ATIVIDADES\Aula 03-09\polindromo\obj\Debug\net9.0\Polindromo.AssemblyInfo.cs
+C:\Users\anima\Documents\2. Faculdade\2025\2 FASE\ESTRUTURA DE DADOS\ATIVIDADES\Aula 03-09\polindromo\obj\Debug\net9.0\Polindromo.csproj.CoreCompileInputs.cache
+C:\Users\anima\Documents\2. Faculdade\2025\2 FASE\ESTRUTURA DE DADOS\ATIVIDADES\Aula 03-09\polindromo\obj\Debug\net9.0\Polindromo.sourcelink.json
+C:\Users\anima\Documents\2. Faculdade\2025\2 FASE\ESTRUTURA DE DADOS\ATIVIDADES\Aula 03-09\polindromo\obj\Debug\net9.0\Polindromo.dll
+C:\Users\anima\Documents\2. Faculdade\2025\2 FASE\ESTRUTURA DE DADOS\ATIVIDADES\Aula 03-09\polindromo\obj\Debug\net9.0\refint\Polindromo.dll
+C:\Users\anima\Documents\2. Faculdade\2025\2 FASE\ESTRUTURA DE DADOS\ATIVIDADES\Aula 03-09\polindromo\obj\Debug\net9.0\Polindromo.pdb
+C:\Users\anima\Documents\2. Faculdade\2025\2 FASE\ESTRUTURA DE DADOS\ATIVIDADES\Aula 03-09\polindromo\obj\Debug\net9.0\Polindromo.genruntimeconfig.cache
+C:\Users\anima\Documents\2. Faculdade\2025\2 FASE\ESTRUTURA DE DADOS\ATIVIDADES\Aula 03-09\polindromo\obj\Debug\net9.0\ref\Polindromo.dll

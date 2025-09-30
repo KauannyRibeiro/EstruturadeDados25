@@ -1,0 +1,18 @@
+C:\Users\anima\Documents\2. Faculdade\2025\2 FASE\ESTRUTURA DE DADOS\ATIVIDADES\Aula 03-09\Priority queues - pag 102\bin\Debug\net9.0\Priority queues - pag 102.exe
+C:\Users\anima\Documents\2. Faculdade\2025\2 FASE\ESTRUTURA DE DADOS\ATIVIDADES\Aula 03-09\Priority queues - pag 102\bin\Debug\net9.0\Priority queues - pag 102.deps.json
+C:\Users\anima\Documents\2. Faculdade\2025\2 FASE\ESTRUTURA DE DADOS\ATIVIDADES\Aula 03-09\Priority queues - pag 102\bin\Debug\net9.0\Priority queues - pag 102.runtimeconfig.json
+C:\Users\anima\Documents\2. Faculdade\2025\2 FASE\ESTRUTURA DE DADOS\ATIVIDADES\Aula 03-09\Priority queues - pag 102\bin\Debug\net9.0\Priority queues - pag 102.dll
+C:\Users\anima\Documents\2. Faculdade\2025\2 FASE\ESTRUTURA DE DADOS\ATIVIDADES\Aula 03-09\Priority queues - pag 102\bin\Debug\net9.0\Priority queues - pag 102.pdb
+C:\Users\anima\Documents\2. Faculdade\2025\2 FASE\ESTRUTURA DE DADOS\ATIVIDADES\Aula 03-09\Priority queues - pag 102\bin\Debug\net9.0\PriorityQueue.dll
+C:\Users\anima\Documents\2. Faculdade\2025\2 FASE\ESTRUTURA DE DADOS\ATIVIDADES\Aula 03-09\Priority queues - pag 102\obj\Debug\net9.0\Priority queues - pag 102.csproj.AssemblyReference.cache
+C:\Users\anima\Documents\2. Faculdade\2025\2 FASE\ESTRUTURA DE DADOS\ATIVIDADES\Aula 03-09\Priority queues - pag 102\obj\Debug\net9.0\Priority queues - pag 102.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anima\Documents\2. Faculdade\2025\2 FASE\ESTRUTURA DE DADOS\ATIVIDADES\Aula 03-09\Priority queues - pag 102\obj\Debug\net9.0\Priority queues - pag 102.AssemblyInfoInputs.cache
+C:\Users\anima\Documents\2. Faculdade\2025\2 FASE\ESTRUTURA DE DADOS\ATIVIDADES\Aula 03-09\Priority queues - pag 102\obj\Debug\net9.0\Priority queues - pag 102.AssemblyInfo.cs
+C:\Users\anima\Documents\2. Faculdade\2025\2 FASE\ESTRUTURA DE DADOS\ATIVIDADES\Aula 03-09\Priority queues - pag 102\obj\Debug\net9.0\Priority queues - pag 102.csproj.CoreCompileInputs.cache
+C:\Users\anima\Documents\2. Faculdade\2025\2 FASE\ESTRUTURA DE DADOS\ATIVIDADES\Aula 03-09\Priority queues - pag 102\obj\Debug\net9.0\Priority queues - pag 102.sourcelink.json
+C:\Users\anima\Documents\2. Faculdade\2025\2 FASE\ESTRUTURA DE DADOS\ATIVIDADES\Aula 03-09\Priority queues - pag 102\obj\Debug\net9.0\Priority.A78D589A.Up2Date
+C:\Users\anima\Documents\2. Faculdade\2025\2 FASE\ESTRUTURA DE DADOS\ATIVIDADES\Aula 03-09\Priority queues - pag 102\obj\Debug\net9.0\Priority queues - pag 102.dll
+C:\Users\anima\Documents\2. Faculdade\2025\2 FASE\ESTRUTURA DE DADOS\ATIVIDADES\Aula 03-09\Priority queues - pag 102\obj\Debug\net9.0\refint\Priority queues - pag 102.dll
+C:\Users\anima\Documents\2. Faculdade\2025\2 FASE\ESTRUTURA DE DADOS\ATIVIDADES\Aula 03-09\Priority queues - pag 102\obj\Debug\net9.0\Priority queues - pag 102.pdb
+C:\Users\anima\Documents\2. Faculdade\2025\2 FASE\ESTRUTURA DE DADOS\ATIVIDADES\Aula 03-09\Priority queues - pag 102\obj\Debug\net9.0\Priority queues - pag 102.genruntimeconfig.cache
+C:\Users\anima\Documents\2. Faculdade\2025\2 FASE\ESTRUTURA DE DADOS\ATIVIDADES\Aula 03-09\Priority queues - pag 102\obj\Debug\net9.0\ref\Priority queues - pag 102.dll
