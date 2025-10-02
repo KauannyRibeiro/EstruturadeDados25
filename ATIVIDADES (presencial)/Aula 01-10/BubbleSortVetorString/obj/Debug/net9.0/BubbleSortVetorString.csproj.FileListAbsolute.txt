@@ -1,0 +1,15 @@
+C:\Users\anima\Documents\2. Faculdade\2025\2 FASE\ESTRUTURA DE DADOS\ATIVIDADES (presencial)\Aula 01-10\BubbleSortVetorString\bin\Debug\net9.0\BubbleSortVetorString.exe
+C:\Users\anima\Documents\2. Faculdade\2025\2 FASE\ESTRUTURA DE DADOS\ATIVIDADES (presencial)\Aula 01-10\BubbleSortVetorString\bin\Debug\net9.0\BubbleSortVetorString.deps.json
+C:\Users\anima\Documents\2. Faculdade\2025\2 FASE\ESTRUTURA DE DADOS\ATIVIDADES (presencial)\Aula 01-10\BubbleSortVetorString\bin\Debug\net9.0\BubbleSortVetorString.runtimeconfig.json
+C:\Users\anima\Documents\2. Faculdade\2025\2 FASE\ESTRUTURA DE DADOS\ATIVIDADES (presencial)\Aula 01-10\BubbleSortVetorString\bin\Debug\net9.0\BubbleSortVetorString.dll
+C:\Users\anima\Documents\2. Faculdade\2025\2 FASE\ESTRUTURA DE DADOS\ATIVIDADES (presencial)\Aula 01-10\BubbleSortVetorString\bin\Debug\net9.0\BubbleSortVetorString.pdb
+C:\Users\anima\Documents\2. Faculdade\2025\2 FASE\ESTRUTURA DE DADOS\ATIVIDADES (presencial)\Aula 01-10\BubbleSortVetorString\obj\Debug\net9.0\BubbleSortVetorString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anima\Documents\2. Faculdade\2025\2 FASE\ESTRUTURA DE DADOS\ATIVIDADES (presencial)\Aula 01-10\BubbleSortVetorString\obj\Debug\net9.0\BubbleSortVetorString.AssemblyInfoInputs.cache
+C:\Users\anima\Documents\2. Faculdade\2025\2 FASE\ESTRUTURA DE DADOS\ATIVIDADES (presencial)\Aula 01-10\BubbleSortVetorString\obj\Debug\net9.0\BubbleSortVetorString.AssemblyInfo.cs
+C:\Users\anima\Documents\2. Faculdade\2025\2 FASE\ESTRUTURA DE DADOS\ATIVIDADES (presencial)\Aula 01-10\BubbleSortVetorString\obj\Debug\net9.0\BubbleSortVetorString.csproj.CoreCompileInputs.cache
+C:\Users\anima\Documents\2. Faculdade\2025\2 FASE\ESTRUTURA DE DADOS\ATIVIDADES (presencial)\Aula 01-10\BubbleSortVetorString\obj\Debug\net9.0\BubbleSortVetorString.sourcelink.json
+C:\Users\anima\Documents\2. Faculdade\2025\2 FASE\ESTRUTURA DE DADOS\ATIVIDADES (presencial)\Aula 01-10\BubbleSortVetorString\obj\Debug\net9.0\BubbleSortVetorString.dll
+C:\Users\anima\Documents\2. Faculdade\2025\2 FASE\ESTRUTURA DE DADOS\ATIVIDADES (presencial)\Aula 01-10\BubbleSortVetorString\obj\Debug\net9.0\refint\BubbleSortVetorString.dll
+C:\Users\anima\Documents\2. Faculdade\2025\2 FASE\ESTRUTURA DE DADOS\ATIVIDADES (presencial)\Aula 01-10\BubbleSortVetorString\obj\Debug\net9.0\BubbleSortVetorString.pdb
+C:\Users\anima\Documents\2. Faculdade\2025\2 FASE\ESTRUTURA DE DADOS\ATIVIDADES (presencial)\Aula 01-10\BubbleSortVetorString\obj\Debug\net9.0\BubbleSortVetorString.genruntimeconfig.cache
+C:\Users\anima\Documents\2. Faculdade\2025\2 FASE\ESTRUTURA DE DADOS\ATIVIDADES (presencial)\Aula 01-10\BubbleSortVetorString\obj\Debug\net9.0\ref\BubbleSortVetorString.dll

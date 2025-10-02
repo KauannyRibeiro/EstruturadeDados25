@@ -1,0 +1,15 @@
+C:\Users\anima\Documents\2. Faculdade\2025\2 FASE\ESTRUTURA DE DADOS\ATIVIDADES (presencial)\Aula 01-10\BubbleSort\obj\Debug\net9.0\BubbleSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anima\Documents\2. Faculdade\2025\2 FASE\ESTRUTURA DE DADOS\ATIVIDADES (presencial)\Aula 01-10\BubbleSort\obj\Debug\net9.0\BubbleSort.AssemblyInfoInputs.cache
+C:\Users\anima\Documents\2. Faculdade\2025\2 FASE\ESTRUTURA DE DADOS\ATIVIDADES (presencial)\Aula 01-10\BubbleSort\obj\Debug\net9.0\BubbleSort.AssemblyInfo.cs
+C:\Users\anima\Documents\2. Faculdade\2025\2 FASE\ESTRUTURA DE DADOS\ATIVIDADES (presencial)\Aula 01-10\BubbleSort\obj\Debug\net9.0\BubbleSort.csproj.CoreCompileInputs.cache
+C:\Users\anima\Documents\2. Faculdade\2025\2 FASE\ESTRUTURA DE DADOS\ATIVIDADES (presencial)\Aula 01-10\BubbleSort\obj\Debug\net9.0\BubbleSort.sourcelink.json
+C:\Users\anima\Documents\2. Faculdade\2025\2 FASE\ESTRUTURA DE DADOS\ATIVIDADES (presencial)\Aula 01-10\BubbleSort\bin\Debug\net9.0\BubbleSort.exe
+C:\Users\anima\Documents\2. Faculdade\2025\2 FASE\ESTRUTURA DE DADOS\ATIVIDADES (presencial)\Aula 01-10\BubbleSort\bin\Debug\net9.0\BubbleSort.deps.json
+C:\Users\anima\Documents\2. Faculdade\2025\2 FASE\ESTRUTURA DE DADOS\ATIVIDADES (presencial)\Aula 01-10\BubbleSort\bin\Debug\net9.0\BubbleSort.runtimeconfig.json
+C:\Users\anima\Documents\2. Faculdade\2025\2 FASE\ESTRUTURA DE DADOS\ATIVIDADES (presencial)\Aula 01-10\BubbleSort\bin\Debug\net9.0\BubbleSort.dll
+C:\Users\anima\Documents\2. Faculdade\2025\2 FASE\ESTRUTURA DE DADOS\ATIVIDADES (presencial)\Aula 01-10\BubbleSort\bin\Debug\net9.0\BubbleSort.pdb
+C:\Users\anima\Documents\2. Faculdade\2025\2 FASE\ESTRUTURA DE DADOS\ATIVIDADES (presencial)\Aula 01-10\BubbleSort\obj\Debug\net9.0\BubbleSort.dll
+C:\Users\anima\Documents\2. Faculdade\2025\2 FASE\ESTRUTURA DE DADOS\ATIVIDADES (presencial)\Aula 01-10\BubbleSort\obj\Debug\net9.0\refint\BubbleSort.dll
+C:\Users\anima\Documents\2. Faculdade\2025\2 FASE\ESTRUTURA DE DADOS\ATIVIDADES (presencial)\Aula 01-10\BubbleSort\obj\Debug\net9.0\BubbleSort.pdb
+C:\Users\anima\Documents\2. Faculdade\2025\2 FASE\ESTRUTURA DE DADOS\ATIVIDADES (presencial)\Aula 01-10\BubbleSort\obj\Debug\net9.0\BubbleSort.genruntimeconfig.cache
+C:\Users\anima\Documents\2. Faculdade\2025\2 FASE\ESTRUTURA DE DADOS\ATIVIDADES (presencial)\Aula 01-10\BubbleSort\obj\Debug\net9.0\ref\BubbleSort.dll
