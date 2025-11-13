@@ -1,0 +1,15 @@
+C:\Users\anima\Documents\2. Faculdade\2025\2 FASE\ESTRUTURA DE DADOS\ATIVIDADES (presencial)\Aula 12-11\Algoritimo de busca\bin\Debug\net9.0\Algoritimo de busca.exe
+C:\Users\anima\Documents\2. Faculdade\2025\2 FASE\ESTRUTURA DE DADOS\ATIVIDADES (presencial)\Aula 12-11\Algoritimo de busca\bin\Debug\net9.0\Algoritimo de busca.deps.json
+C:\Users\anima\Documents\2. Faculdade\2025\2 FASE\ESTRUTURA DE DADOS\ATIVIDADES (presencial)\Aula 12-11\Algoritimo de busca\bin\Debug\net9.0\Algoritimo de busca.runtimeconfig.json
+C:\Users\anima\Documents\2. Faculdade\2025\2 FASE\ESTRUTURA DE DADOS\ATIVIDADES (presencial)\Aula 12-11\Algoritimo de busca\bin\Debug\net9.0\Algoritimo de busca.dll
+C:\Users\anima\Documents\2. Faculdade\2025\2 FASE\ESTRUTURA DE DADOS\ATIVIDADES (presencial)\Aula 12-11\Algoritimo de busca\bin\Debug\net9.0\Algoritimo de busca.pdb
+C:\Users\anima\Documents\2. Faculdade\2025\2 FASE\ESTRUTURA DE DADOS\ATIVIDADES (presencial)\Aula 12-11\Algoritimo de busca\obj\Debug\net9.0\Algoritimo de busca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anima\Documents\2. Faculdade\2025\2 FASE\ESTRUTURA DE DADOS\ATIVIDADES (presencial)\Aula 12-11\Algoritimo de busca\obj\Debug\net9.0\Algoritimo de busca.AssemblyInfoInputs.cache
+C:\Users\anima\Documents\2. Faculdade\2025\2 FASE\ESTRUTURA DE DADOS\ATIVIDADES (presencial)\Aula 12-11\Algoritimo de busca\obj\Debug\net9.0\Algoritimo de busca.AssemblyInfo.cs
+C:\Users\anima\Documents\2. Faculdade\2025\2 FASE\ESTRUTURA DE DADOS\ATIVIDADES (presencial)\Aula 12-11\Algoritimo de busca\obj\Debug\net9.0\Algoritimo de busca.csproj.CoreCompileInputs.cache
+C:\Users\anima\Documents\2. Faculdade\2025\2 FASE\ESTRUTURA DE DADOS\ATIVIDADES (presencial)\Aula 12-11\Algoritimo de busca\obj\Debug\net9.0\Algoritimo de busca.sourcelink.json
+C:\Users\anima\Documents\2. Faculdade\2025\2 FASE\ESTRUTURA DE DADOS\ATIVIDADES (presencial)\Aula 12-11\Algoritimo de busca\obj\Debug\net9.0\Algoritimo de busca.dll
+C:\Users\anima\Documents\2. Faculdade\2025\2 FASE\ESTRUTURA DE DADOS\ATIVIDADES (presencial)\Aula 12-11\Algoritimo de busca\obj\Debug\net9.0\refint\Algoritimo de busca.dll
+C:\Users\anima\Documents\2. Faculdade\2025\2 FASE\ESTRUTURA DE DADOS\ATIVIDADES (presencial)\Aula 12-11\Algoritimo de busca\obj\Debug\net9.0\Algoritimo de busca.pdb
+C:\Users\anima\Documents\2. Faculdade\2025\2 FASE\ESTRUTURA DE DADOS\ATIVIDADES (presencial)\Aula 12-11\Algoritimo de busca\obj\Debug\net9.0\Algoritimo de busca.genruntimeconfig.cache
+C:\Users\anima\Documents\2. Faculdade\2025\2 FASE\ESTRUTURA DE DADOS\ATIVIDADES (presencial)\Aula 12-11\Algoritimo de busca\obj\Debug\net9.0\ref\Algoritimo de busca.dll
