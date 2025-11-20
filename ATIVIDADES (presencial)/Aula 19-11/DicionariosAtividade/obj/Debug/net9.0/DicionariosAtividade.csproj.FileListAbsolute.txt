@@ -1,0 +1,15 @@
+C:\Users\anima\Documents\2. Faculdade\2025\2 FASE\ESTRUTURA DE DADOS\ATIVIDADES (presencial)\Aula 19-11\DicionariosAtividade\bin\Debug\net9.0\DicionariosAtividade.exe
+C:\Users\anima\Documents\2. Faculdade\2025\2 FASE\ESTRUTURA DE DADOS\ATIVIDADES (presencial)\Aula 19-11\DicionariosAtividade\bin\Debug\net9.0\DicionariosAtividade.deps.json
+C:\Users\anima\Documents\2. Faculdade\2025\2 FASE\ESTRUTURA DE DADOS\ATIVIDADES (presencial)\Aula 19-11\DicionariosAtividade\bin\Debug\net9.0\DicionariosAtividade.runtimeconfig.json
+C:\Users\anima\Documents\2. Faculdade\2025\2 FASE\ESTRUTURA DE DADOS\ATIVIDADES (presencial)\Aula 19-11\DicionariosAtividade\bin\Debug\net9.0\DicionariosAtividade.dll
+C:\Users\anima\Documents\2. Faculdade\2025\2 FASE\ESTRUTURA DE DADOS\ATIVIDADES (presencial)\Aula 19-11\DicionariosAtividade\bin\Debug\net9.0\DicionariosAtividade.pdb
+C:\Users\anima\Documents\2. Faculdade\2025\2 FASE\ESTRUTURA DE DADOS\ATIVIDADES (presencial)\Aula 19-11\DicionariosAtividade\obj\Debug\net9.0\DicionariosAtividade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anima\Documents\2. Faculdade\2025\2 FASE\ESTRUTURA DE DADOS\ATIVIDADES (presencial)\Aula 19-11\DicionariosAtividade\obj\Debug\net9.0\DicionariosAtividade.AssemblyInfoInputs.cache
+C:\Users\anima\Documents\2. Faculdade\2025\2 FASE\ESTRUTURA DE DADOS\ATIVIDADES (presencial)\Aula 19-11\DicionariosAtividade\obj\Debug\net9.0\DicionariosAtividade.AssemblyInfo.cs
+C:\Users\anima\Documents\2. Faculdade\2025\2 FASE\ESTRUTURA DE DADOS\ATIVIDADES (presencial)\Aula 19-11\DicionariosAtividade\obj\Debug\net9.0\DicionariosAtividade.csproj.CoreCompileInputs.cache
+C:\Users\anima\Documents\2. Faculdade\2025\2 FASE\ESTRUTURA DE DADOS\ATIVIDADES (presencial)\Aula 19-11\DicionariosAtividade\obj\Debug\net9.0\DicionariosAtividade.sourcelink.json
+C:\Users\anima\Documents\2. Faculdade\2025\2 FASE\ESTRUTURA DE DADOS\ATIVIDADES (presencial)\Aula 19-11\DicionariosAtividade\obj\Debug\net9.0\DicionariosAtividade.dll
+C:\Users\anima\Documents\2. Faculdade\2025\2 FASE\ESTRUTURA DE DADOS\ATIVIDADES (presencial)\Aula 19-11\DicionariosAtividade\obj\Debug\net9.0\refint\DicionariosAtividade.dll
+C:\Users\anima\Documents\2. Faculdade\2025\2 FASE\ESTRUTURA DE DADOS\ATIVIDADES (presencial)\Aula 19-11\DicionariosAtividade\obj\Debug\net9.0\DicionariosAtividade.pdb
+C:\Users\anima\Documents\2. Faculdade\2025\2 FASE\ESTRUTURA DE DADOS\ATIVIDADES (presencial)\Aula 19-11\DicionariosAtividade\obj\Debug\net9.0\DicionariosAtividade.genruntimeconfig.cache
+C:\Users\anima\Documents\2. Faculdade\2025\2 FASE\ESTRUTURA DE DADOS\ATIVIDADES (presencial)\Aula 19-11\DicionariosAtividade\obj\Debug\net9.0\ref\DicionariosAtividade.dll

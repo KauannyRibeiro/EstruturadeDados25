@@ -1,0 +1,15 @@
+C:\Users\anima\Documents\2. Faculdade\2025\2 FASE\ESTRUTURA DE DADOS\ATIVIDADES (presencial)\Aula 12-11\Sentinela\bin\Debug\net9.0\Sentinela.exe
+C:\Users\anima\Documents\2. Faculdade\2025\2 FASE\ESTRUTURA DE DADOS\ATIVIDADES (presencial)\Aula 12-11\Sentinela\bin\Debug\net9.0\Sentinela.deps.json
+C:\Users\anima\Documents\2. Faculdade\2025\2 FASE\ESTRUTURA DE DADOS\ATIVIDADES (presencial)\Aula 12-11\Sentinela\bin\Debug\net9.0\Sentinela.runtimeconfig.json
+C:\Users\anima\Documents\2. Faculdade\2025\2 FASE\ESTRUTURA DE DADOS\ATIVIDADES (presencial)\Aula 12-11\Sentinela\bin\Debug\net9.0\Sentinela.dll
+C:\Users\anima\Documents\2. Faculdade\2025\2 FASE\ESTRUTURA DE DADOS\ATIVIDADES (presencial)\Aula 12-11\Sentinela\bin\Debug\net9.0\Sentinela.pdb
+C:\Users\anima\Documents\2. Faculdade\2025\2 FASE\ESTRUTURA DE DADOS\ATIVIDADES (presencial)\Aula 12-11\Sentinela\obj\Debug\net9.0\Sentinela.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anima\Documents\2. Faculdade\2025\2 FASE\ESTRUTURA DE DADOS\ATIVIDADES (presencial)\Aula 12-11\Sentinela\obj\Debug\net9.0\Sentinela.AssemblyInfoInputs.cache
+C:\Users\anima\Documents\2. Faculdade\2025\2 FASE\ESTRUTURA DE DADOS\ATIVIDADES (presencial)\Aula 12-11\Sentinela\obj\Debug\net9.0\Sentinela.AssemblyInfo.cs
+C:\Users\anima\Documents\2. Faculdade\2025\2 FASE\ESTRUTURA DE DADOS\ATIVIDADES (presencial)\Aula 12-11\Sentinela\obj\Debug\net9.0\Sentinela.csproj.CoreCompileInputs.cache
+C:\Users\anima\Documents\2. Faculdade\2025\2 FASE\ESTRUTURA DE DADOS\ATIVIDADES (presencial)\Aula 12-11\Sentinela\obj\Debug\net9.0\Sentinela.sourcelink.json
+C:\Users\anima\Documents\2. Faculdade\2025\2 FASE\ESTRUTURA DE DADOS\ATIVIDADES (presencial)\Aula 12-11\Sentinela\obj\Debug\net9.0\Sentinela.dll
+C:\Users\anima\Documents\2. Faculdade\2025\2 FASE\ESTRUTURA DE DADOS\ATIVIDADES (presencial)\Aula 12-11\Sentinela\obj\Debug\net9.0\refint\Sentinela.dll
+C:\Users\anima\Documents\2. Faculdade\2025\2 FASE\ESTRUTURA DE DADOS\ATIVIDADES (presencial)\Aula 12-11\Sentinela\obj\Debug\net9.0\Sentinela.pdb
+C:\Users\anima\Documents\2. Faculdade\2025\2 FASE\ESTRUTURA DE DADOS\ATIVIDADES (presencial)\Aula 12-11\Sentinela\obj\Debug\net9.0\Sentinela.genruntimeconfig.cache
+C:\Users\anima\Documents\2. Faculdade\2025\2 FASE\ESTRUTURA DE DADOS\ATIVIDADES (presencial)\Aula 12-11\Sentinela\obj\Debug\net9.0\ref\Sentinela.dll

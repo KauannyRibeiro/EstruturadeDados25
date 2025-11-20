@@ -1,0 +1,15 @@
+C:\Users\anima\Documents\2. Faculdade\2025\2 FASE\ESTRUTURA DE DADOS\ATIVIDADES (presencial)\Aula 19-11\Hashtablee\bin\Debug\net9.0\Hashtablee.exe
+C:\Users\anima\Documents\2. Faculdade\2025\2 FASE\ESTRUTURA DE DADOS\ATIVIDADES (presencial)\Aula 19-11\Hashtablee\bin\Debug\net9.0\Hashtablee.deps.json
+C:\Users\anima\Documents\2. Faculdade\2025\2 FASE\ESTRUTURA DE DADOS\ATIVIDADES (presencial)\Aula 19-11\Hashtablee\bin\Debug\net9.0\Hashtablee.runtimeconfig.json
+C:\Users\anima\Documents\2. Faculdade\2025\2 FASE\ESTRUTURA DE DADOS\ATIVIDADES (presencial)\Aula 19-11\Hashtablee\bin\Debug\net9.0\Hashtablee.dll
+C:\Users\anima\Documents\2. Faculdade\2025\2 FASE\ESTRUTURA DE DADOS\ATIVIDADES (presencial)\Aula 19-11\Hashtablee\bin\Debug\net9.0\Hashtablee.pdb
+C:\Users\anima\Documents\2. Faculdade\2025\2 FASE\ESTRUTURA DE DADOS\ATIVIDADES (presencial)\Aula 19-11\Hashtablee\obj\Debug\net9.0\Hashtablee.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anima\Documents\2. Faculdade\2025\2 FASE\ESTRUTURA DE DADOS\ATIVIDADES (presencial)\Aula 19-11\Hashtablee\obj\Debug\net9.0\Hashtablee.AssemblyInfoInputs.cache
+C:\Users\anima\Documents\2. Faculdade\2025\2 FASE\ESTRUTURA DE DADOS\ATIVIDADES (presencial)\Aula 19-11\Hashtablee\obj\Debug\net9.0\Hashtablee.AssemblyInfo.cs
+C:\Users\anima\Documents\2. Faculdade\2025\2 FASE\ESTRUTURA DE DADOS\ATIVIDADES (presencial)\Aula 19-11\Hashtablee\obj\Debug\net9.0\Hashtablee.csproj.CoreCompileInputs.cache
+C:\Users\anima\Documents\2. Faculdade\2025\2 FASE\ESTRUTURA DE DADOS\ATIVIDADES (presencial)\Aula 19-11\Hashtablee\obj\Debug\net9.0\Hashtablee.sourcelink.json
+C:\Users\anima\Documents\2. Faculdade\2025\2 FASE\ESTRUTURA DE DADOS\ATIVIDADES (presencial)\Aula 19-11\Hashtablee\obj\Debug\net9.0\Hashtablee.dll
+C:\Users\anima\Documents\2. Faculdade\2025\2 FASE\ESTRUTURA DE DADOS\ATIVIDADES (presencial)\Aula 19-11\Hashtablee\obj\Debug\net9.0\refint\Hashtablee.dll
+C:\Users\anima\Documents\2. Faculdade\2025\2 FASE\ESTRUTURA DE DADOS\ATIVIDADES (presencial)\Aula 19-11\Hashtablee\obj\Debug\net9.0\Hashtablee.pdb
+C:\Users\anima\Documents\2. Faculdade\2025\2 FASE\ESTRUTURA DE DADOS\ATIVIDADES (presencial)\Aula 19-11\Hashtablee\obj\Debug\net9.0\Hashtablee.genruntimeconfig.cache
+C:\Users\anima\Documents\2. Faculdade\2025\2 FASE\ESTRUTURA DE DADOS\ATIVIDADES (presencial)\Aula 19-11\Hashtablee\obj\Debug\net9.0\ref\Hashtablee.dll
